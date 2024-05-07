@@ -1,5 +1,5 @@
 # Solana Token Creator
-Create Solana Token in Minutes using the most affordable No-code Platform [Solr Network](https://solr.network).
+Create Solana Token in minutes using the most affordable No-code Platform [Solr Network](https://solr.network).
 
 This repository lists the resources and the instructions that goes behind Solr Network
 
